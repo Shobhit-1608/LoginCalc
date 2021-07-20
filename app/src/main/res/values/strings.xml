@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">final</string>
+    <string name="welcome_here">welcome</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="quit">Quit</string>
+    <string name="change_language">Change Language</string>
+</resources>

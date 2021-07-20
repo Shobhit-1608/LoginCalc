@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginCalc</string>
+    <string name="welcome_here">यहाँ स्वागत है</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">कुंजिका</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="quit">छोड़ना</string>
+    <string name="change_language">भाषा बदलें</string>
+</resources>

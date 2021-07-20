@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginCalc</string>
+    <string name="welcome_here">ഇവിടേക്ക് സ്വാഗതം</string>
+    <string name="username">ഉപയോക്തൃനാമം</string>
+    <string name="password">Password</string>
+    <string name="login">ലോഗിൻ</string>
+    <string name="sign_up">സൈൻ അപ്പ് ചെയ്യുക</string>
+    <string name="quit">ഉപേക്ഷിക്കുക</string>
+    <string name="change_language">ഭാഷ മാറ്റുക</string>
+</resources>
